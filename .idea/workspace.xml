@@ -48,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.7757937">
-                <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.30357143">
+                <caret line="9" column="117" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -614,12 +614,12 @@
       <option name="number" value="Default" />
       <updated>1502818148585</updated>
       <workItem from="1502818151467" duration="4989000" />
-      <workItem from="1502862143138" duration="4770000" />
+      <workItem from="1502862143138" duration="4848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9759000" />
+    <option name="totallyTimeSpent" value="9837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -850,8 +850,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.7757937">
-            <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="0.30357143">
+            <caret line="9" column="117" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
             <folding />
           </first_editor>
           <second_editor />
