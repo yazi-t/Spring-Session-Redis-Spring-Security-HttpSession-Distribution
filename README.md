@@ -21,6 +21,7 @@ You can download build directly Redis-x64-X.X.XXX.msi or source code from there.
 Run redis-server.exe to start the server and redis-cli.exe to connect to this server through the shell.
 
 ##Environment
+
     > Java version: JDK 8
     > Build tool: maven 3+
     > Appication/servlet container: Tested with Apache Tomcat 
