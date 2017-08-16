@@ -8,8 +8,7 @@ Find more info on [official website](https://docs.spring.io/spring-session/docs/
 
 ##Redis
 Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
-
-    > Used as distributed session store in this application.
+**Used as distributed session store in this application.**
    
 ###Download
 Redis can be downloaded via [official website](https://redis.io/)
